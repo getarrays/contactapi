@@ -9,8 +9,9 @@ import java.util.Optional;
 /**
  * @author Junior RT
  * @version 1.0
- * @license Get Arrays, LLC (https://getarrays.io)
- * @since 9/22/2023
+ * @license Get Arrays, LLC (<a href="https://www.getarrays.io">Get Arrays, LLC</a>)
+ * @email getarrayz@gmail.com
+ * @since 11/22/2023
  */
 
 @Repository
